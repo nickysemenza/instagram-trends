@@ -5,7 +5,7 @@
     "plotly": "^1.0.6"
   },
   "devDependencies": {
-    "eslint": "^3.12.2",
+    "eslint": "^3.14.0",
     "eslint-config-airbnb-base": "^11.0.0",
     "eslint-plugin-import": "^2.2.0"
   }
